@@ -1,6 +1,8 @@
 # Hangman
-This respiratory is for Assignment 2. It includes Hangman Game.
-The challange is to update the Hangman drawing whenever the player losses
+- Author: Neslihan Salimoglu
+- Respiratory Adress: https://github.com/neslihansalimoglu/Hangman
+- This respiratory is for Assignment 2. It includes Hangman Game.
+- The challange is to update the Hangman drawing whenever the player losses
 
 *********************************************************CLARIFICATIONS********************************************************************
   First of all, I want to be honest and tell you that Youtube helped me to finish this assignment. I dont wanna make any excuses but I want to be clear in this situation.
